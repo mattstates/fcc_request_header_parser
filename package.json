@@ -1,0 +1,27 @@
+{
+  "name": "fcc_request_header_parser",
+  "version": "1.0.0",
+  "description": "A Free Code Camp back end certificate project to parse request headers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattstates/fcc_request_header_parser.git"
+  },
+  "keywords": [
+    "Free",
+    "Code",
+    "Camp"
+  ],
+  "author": "Matt States",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattstates/fcc_request_header_parser/issues"
+  },
+  "homepage": "https://github.com/mattstates/fcc_request_header_parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
